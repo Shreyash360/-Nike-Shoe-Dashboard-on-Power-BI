@@ -6,4 +6,4 @@ Excited to share my latest project: a dynamic Nike Shoe Dashboard created using 
 
 #PowerBI #DataVisualization #Nike #BusinessIntelligence #DashboardDesign #DataDrivenDecisions
 
-🌐 Check it out:https://app.powerbi.com/view?r=eyJrIjoiMzRmMTZhZGQtYjAwNy00N2MyLTg2ZmUtMThjYzYyNDlkODBkIiwidCI6IjhiMGVlNmY1LTBkYzktNDM0OC1hZDJiLWVjMzJhNjI1YjgxMiJ9
+
