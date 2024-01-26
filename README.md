@@ -2,6 +2,6 @@
 Excited to share my latest project: a dynamic Nike Shoe Dashboard created using Power BI! 📊👟 Interactive Filters: Explore the data with interactive slicing filter, allowing a personalized view of different shoe categories. 🚀 Technologies Used: Power BI: for robust data visualization and analysis.
 
 💡 Why it Matters: As the sports and fashion industry evolves, staying ahead of market trends is crucial. This dashboard provides a competitive edge by transforming raw data into actionable intelligence, fostering data-driven decision-making.
-#PowerBI hashtag#DataVisualization hashtag#Nike hashtag#BusinessIntelligence hashtag#DashboardDesign hashtag#DataDrivenDecisions
+#PowerBI #DataVisualization #Nike #BusinessIntelligence #DashboardDesign #DataDrivenDecisions
 
 🌐 Check it out:https://app.powerbi.com/view?r=eyJrIjoiMzRmMTZhZGQtYjAwNy00N2MyLTg2ZmUtMThjYzYyNDlkODBkIiwidCI6IjhiMGVlNmY1LTBkYzktNDM0OC1hZDJiLWVjMzJhNjI1YjgxMiJ9
