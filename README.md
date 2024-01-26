@@ -3,4 +3,5 @@ Excited to share my latest project: a dynamic Nike Shoe Dashboard created using 
 
 💡 Why it Matters: As the sports and fashion industry evolves, staying ahead of market trends is crucial. This dashboard provides a competitive edge by transforming raw data into actionable intelligence, fostering data-driven decision-making.
 #PowerBI hashtag#DataVisualization hashtag#Nike hashtag#BusinessIntelligence hashtag#DashboardDesign hashtag#DataDrivenDecisions
+
 🌐 Check it out:https://app.powerbi.com/view?r=eyJrIjoiMzRmMTZhZGQtYjAwNy00N2MyLTg2ZmUtMThjYzYyNDlkODBkIiwidCI6IjhiMGVlNmY1LTBkYzktNDM0OC1hZDJiLWVjMzJhNjI1YjgxMiJ9
